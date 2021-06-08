@@ -56,7 +56,7 @@
         </repository>
     </distributionManagement>
     <scm>
-        <connection>scm:git:https://github.com/bnasslahsen/jenkins-sample-1.git</connection>
+        <connection>scm:git:https://github.com/cynthiaPF/jenkins-sample-1.git</connection>
         <url>https://github.com/bnasslahsen/jenkins-sample-1</url>
         <developerConnection>scm:git:https://github.com/bnasslahsen/jenkins-sample-1.git</developerConnection>
         <tag>HEAD</tag>
